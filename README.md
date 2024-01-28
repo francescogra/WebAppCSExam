@@ -15,5 +15,3 @@ Diamo uno sguardo come queste tecnologie cooperano:
 caricherà su docker hub.
 6. Sempre il server Ansible avvierà il container docker sul server docker, il
 quale preleverà l'immagine dal docker hub.
-
-Per ulteriori dettagli consultare il [report.](https://github.com/pierpaologumina/CloudSystemsExam/blob/main/report_sc.pdf)
