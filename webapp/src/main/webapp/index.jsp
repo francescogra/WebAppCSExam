@@ -1,7 +1,7 @@
 <form action="action_page.php">
     <div class="container">
       <p>Progetto Sistemi Cloud. Sviluppato da Francesco Grasso.</p>
-      <h1>Hello world from Augusta. New user Register!</h1>
+      <h1>Hello world from Catania. New user Register!</h1>
       <p>Please fill in this form to create an account.</p>
       <hr>
       <label for="Name"><b>Enter Name</b></label>
