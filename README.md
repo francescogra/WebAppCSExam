@@ -1,7 +1,14 @@
-# Continuous Integration/Continuous Deployment (CI/CD) con Git, Github, Jenkins, Maven, Ansible e Docker
-## Progetto per l'esame di Sistemi Cloud
-The aim of the project is to describe the entire CI/CD pipeline for compiling and releasing a Java application. During the project we will be using: Git, a distributed version control software; Github, a hosting service for software projects; Jenkins Server, a continuous integration tool; Maven, a build automation tool; Ansible, a tool for automating configuration and management procedures (provisioning); and Docker, for containerising applications.
-The virtual machines on which the entire CI/CD infrastructure resides are provided by Amazon's cloud service: EC2 (Elastic Compute Cloud). Amazon EC2 is a web service capable of providing scalable computing capacity, more specifically it allows the execution of virtual servers capable of hosting services and applications, virtual computing environments better known as instances.
+# Cloud Systems Exam Project - University of Catania
+
+## Project Title
+**Continuous Integration/Continuous Deployment (CI/CD) con Git, Github, Jenkins, Maven, Ansible e Docker**
+
+## Project Overview
+This repository contains the exam project for the Cloud Systems course on Data science Master's at the University of Catania. 
+
+The aim of the project is to describe the entire **CI/CD pipeline** for compiling and releasing a Java application. During the project we will be using: Git, a distributed version control software; Github, a hosting service for software projects; Jenkins Server, a continuous integration tool; Maven, a build automation tool; Ansible, a tool for automating configuration and management procedures (provisioning); and Docker, for containerising applications.
+The virtual machines on which the entire CI/CD infrastructure resides are provided by **Amazon's cloud service**: EC2 (Elastic Compute Cloud). **Amazon EC2** is a web service capable of providing scalable computing capacity, more specifically it allows the execution of virtual servers capable of hosting services and applications, virtual computing environments better known as instances.
+
 One of the most interesting features of this service, hence the term "elastic", is the possibility of managing variations in requirements, popularity and needs specific to the company and the platform: in essence, Amazon EC2 allows both the calibration of interventions within the space provided and the acquisition and configuration of secure and scalable computing capacity.
 Let's take a look at how these technologies work together:
 
